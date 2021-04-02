@@ -113,7 +113,7 @@ apt-get install cpulimit
 ***
 ***
 ## 重装系统相关
- > 默认密码root密码为fei5seven(安装后只有系统和基本软件，其他软件都没有）
+ > 默认密码root密码为MoeClub.org(安装后只有系统和基本软件，其他软件都没有）
 Debian/Ubuntu:
 ````
 apt-get update
